@@ -170,6 +170,7 @@ int main()
    	cin>>CAF;
    } 
 	
+	cout<<"ufp :"<<UFP<<endl<<"caf :"<<CAF<<endl;
 	cout<<UFP*CAF;
 }
 
